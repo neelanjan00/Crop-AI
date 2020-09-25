@@ -9,4 +9,4 @@ wincertstore==0.2
 numpy==1.18.4
 Flask==1.1.2
 opencv-python==4.2.0.34
-tensorflow-cpu==2.2.0
+tensorflow-cpu==2.2.1
