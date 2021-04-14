@@ -27,9 +27,10 @@ model = tf.keras.models.load_model(model_path)
 with open(label_dictionary_path, 'rb') as fp:
     label_dictionary = pickle.load(fp)
 
-
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['POST', 'GET'])
 def base():
+    if request.method == 'GET':
+        return "<h1>Crop AI</h1>"
     if request.method == 'POST':
         if 'InputImg' not in request.files:
             print("No file part")
