@@ -1,2 +1,0 @@
-# Crop-AI
-A diagnostic AI-enabled mobile app which is able to classify upto 38 different plant diseases ranging for 14 crops and vegetables. The application makes use of the VGG-Net CNN architecture for the purpose of multi-class classification of the images of infected plant leaves. The trained model was then deployed using a Flask backend server, along with a Flutter based frontend mobile application to interact with the REST API.
