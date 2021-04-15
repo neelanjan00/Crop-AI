@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> [This is the backend API of the project, the frontend mobile application can be found <a href="https://google.com"> here </a>] A diagnostic AI-enabled mobile app which is able to classify upto 38 different plant diseases ranging for 14 crops and vegetables. The application makes use of the VGG-Net CNN architecture for the purpose of multi-class classification of the images of infected plant leaves. The trained model was then deployed using a Flask backend server, along with a Flutter based frontend mobile application to interact with the REST API.
+> [This is the backend API of the project, the frontend mobile application can be found <a href="https://github.com/neelanjan00/Crop-AI-Frontend"> here </a>] A diagnostic AI-enabled mobile app which is able to classify upto 38 different plant diseases ranging for 14 crops and vegetables. The application makes use of the VGG-Net CNN architecture for the purpose of multi-class classification of the images of infected plant leaves. The trained model was then deployed using a Flask backend server, along with a Flutter based frontend mobile application to interact with the REST API.
 
 ### 🏠 [Homepage](https://github.com/neelanjan00/Crop-AI)
 
