@@ -1,3 +1,4 @@
+<img src="https://firebasestorage.googleapis.com/v0/b/neelanjan-manna.appspot.com/o/project-images%2FCropAI.jpeg?alt=media&token=f0abab94-53d7-4c23-92bb-6931283f85e4" width="400" />
 <h1 align="center">Welcome to Crop AI 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
